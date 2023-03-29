@@ -3,4 +3,4 @@ def matematica(a, b):
 
 
 def algebra(c, d):
-    return d - d
+    return c - d
